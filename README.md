@@ -28,6 +28,7 @@ After running all the cells and reaching the last one, simply replace the exampl
 ```
 raccomandation('Men in Black 3')
 
+```
 [Output]:
 raccomantation for: Men in Black 3
 Based on the Genre, I recommend these films:
@@ -45,5 +46,3 @@ The Lovers
 Men in Black II
 The Brothers Solomon
 Hot Rod
-
-```
