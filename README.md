@@ -30,19 +30,29 @@ raccomandation('Men in Black 3')
 
 ```
 [Output]:
+
 raccomantation for: Men in Black 3
+
 Based on the Genre, I recommend these films:
 
 The Time Machine
+
 Time Changer
+
 Safety Not Guaranteed
+
 Project Almanac
+
 Somewhere in Time
 
 based on the Production Company I recommend these films:
 
 The Singles Ward
+
 The Lovers
+
 Men in Black II
+
 The Brothers Solomon
+
 Hot Rod
