@@ -9,6 +9,7 @@ Before using this project, make sure you have Python installed, along with the f
 - `scikit-learn` for `TfidfVectorizer` and `cosine_similarity`,
 - `rich` for text formatting.
 - `ast`  for working with dictionaries and lists.
+  
 You can install them using the following commands:
 - `pip install scikit-learn`
 - `pip install rich` 
